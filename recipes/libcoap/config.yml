@@ -1,4 +1,6 @@
 ---
 versions:
   "cci.20200424":
+    folder: "cci"
+  "4.3.0-rc3":
     folder: "all"
